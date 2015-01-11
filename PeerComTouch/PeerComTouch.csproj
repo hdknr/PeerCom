@@ -101,6 +101,14 @@
     <Compile Include="PeerComTouchViewController.designer.cs">
       <DependentUpon>PeerComTouchViewController.cs</DependentUpon>
     </Compile>
+    <Compile Include="PeerComTouchPhoneViewController.cs" />
+    <Compile Include="PeerComTouchPhoneViewController.designer.cs">
+      <DependentUpon>PeerComTouchPhoneViewController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PeerComTouchPadViewController.cs" />
+    <Compile Include="PeerComTouchPadViewController.designer.cs">
+      <DependentUpon>PeerComTouchPadViewController.cs</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <InterfaceDefinition Include="MainStoryboard_iPhone.storyboard" />
