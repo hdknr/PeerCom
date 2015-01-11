@@ -11,8 +11,8 @@ using System.CodeDom.Compiler;
 
 namespace PeerComTouch
 {
-	[Register ("PeerComTouchPadViewController")]
-	partial class PeerComTouchPadViewController
+	[Register ("PeerComTouchClientViewController")]
+	partial class PeerComTouchClientViewController
 	{
 		void ReleaseDesignerOutlets ()
 		{

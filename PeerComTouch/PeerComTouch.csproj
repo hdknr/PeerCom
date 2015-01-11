@@ -101,13 +101,13 @@
     <Compile Include="PeerComTouchViewController.designer.cs">
       <DependentUpon>PeerComTouchViewController.cs</DependentUpon>
     </Compile>
-    <Compile Include="PeerComTouchPhoneViewController.cs" />
-    <Compile Include="PeerComTouchPhoneViewController.designer.cs">
-      <DependentUpon>PeerComTouchPhoneViewController.cs</DependentUpon>
+    <Compile Include="PeerComTouchClientViewController.cs" />
+    <Compile Include="PeerComTouchClientViewController.designer.cs">
+      <DependentUpon>PeerComTouchClientViewController.cs</DependentUpon>
     </Compile>
-    <Compile Include="PeerComTouchPadViewController.cs" />
-    <Compile Include="PeerComTouchPadViewController.designer.cs">
-      <DependentUpon>PeerComTouchPadViewController.cs</DependentUpon>
+    <Compile Include="PeerComTouchServerViewController.cs" />
+    <Compile Include="PeerComTouchServerViewController.designer.cs">
+      <DependentUpon>PeerComTouchServerViewController.cs</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
