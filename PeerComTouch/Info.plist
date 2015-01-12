@@ -40,5 +40,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>ロケーションサービス必須ですよ</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>ロケーションサービス必須ですよ</string>
 </dict>
 </plist>
