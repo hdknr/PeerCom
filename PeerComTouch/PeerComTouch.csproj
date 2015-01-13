@@ -109,6 +109,9 @@
     <Compile Include="PeerComTouchServerViewController.designer.cs">
       <DependentUpon>PeerComTouchServerViewController.cs</DependentUpon>
     </Compile>
+    <Compile Include="BeaconService.cs" />
+    <Compile Include="BeaconServer.cs" />
+    <Compile Include="BeaconClient.cs" />
   </ItemGroup>
   <ItemGroup>
     <InterfaceDefinition Include="MainStoryboard_iPhone.storyboard" />
